@@ -31,6 +31,17 @@ Next, install the dependencies for the this project:
 $ pip install -r requirements.txt
 ```
 
+## TODO
+
+- [x] Problem definition
+- [ ] Data collection
+- [ ] Data analysis and preparation
+- [ ] Choosing the model
+- [ ] Training the defined model
+- [ ] Evaluating the trained model
+- [ ] Fine-tuning the model
+- [ ] Deploy
+
 ## References
 
 - [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
